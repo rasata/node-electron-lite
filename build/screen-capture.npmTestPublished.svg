@@ -2,11 +2,11 @@
 <rect height="878" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">&gt; electron-lite@2016.7.1 test-published /home/travis/build/kaizhu256/node-electron-lite</tspan>
+<tspan x="10" y="42">&gt; electron-lite@2016.7.2 test-published /home/travis/build/kaizhu256/node-electron-lite</tspan>
 <tspan x="10" y="58">&gt; utility2 shRun shNpmTestPublished</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTestPublished] - 2016-07-31T12:38:01Z - npm-testing published-package electron-li\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTestPublished] - 2016-07-31T12:40:36Z - npm-testing published-package electron-li\</tspan>
 <tspan x="10" y="122">te</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -40,7 +40,7 @@
 <tspan x="10" y="602">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="618">v1.2.8</tspan>
 <tspan x="10" y="634"></tspan>
-<tspan x="10" y="650">[MODE_BUILD=npmTestPublished] - 2016-07-31T12:38:08Z - npm-testing /tmp/app/node_modules/electro\</tspan>
+<tspan x="10" y="650">[MODE_BUILD=npmTestPublished] - 2016-07-31T12:40:42Z - npm-testing /tmp/app/node_modules/electro\</tspan>
 <tspan x="10" y="666">n-lite</tspan>
 <tspan x="10" y="682"></tspan>
 <tspan x="10" y="698"></tspan>
