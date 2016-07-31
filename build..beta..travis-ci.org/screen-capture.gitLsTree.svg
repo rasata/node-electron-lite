@@ -1,22 +1,14 @@
-<svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="302" fill="#555" width="720"></rect>
+<svg height="174" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="174" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">        64 bytes    2016-05-23 18:02:40 +0300    .gitignore</tspan>
-<tspan x="10" y="42"></tspan>
-<tspan x="10" y="58">      7692 bytes    2016-04-20 13:49:12 +0300    .travis.yml</tspan>
-<tspan x="10" y="74"></tspan>
-<tspan x="10" y="90">      7545 bytes    2016-06-09 04:43:05 +0300    README.md</tspan>
-<tspan x="10" y="106"></tspan>
-<tspan x="10" y="122">       513 bytes    2016-04-21 01:03:37 +0300    cli.js</tspan>
-<tspan x="10" y="138"></tspan>
-<tspan x="10" y="154">       106 bytes    2016-04-20 16:14:19 +0300    index.js</tspan>
-<tspan x="10" y="170"></tspan>
-<tspan x="10" y="186">      1395 bytes    2016-06-09 04:43:05 +0300    index.sh</tspan>
-<tspan x="10" y="202"></tspan>
-<tspan x="10" y="218">      1396 bytes    2016-06-09 04:43:05 +0300    package.json</tspan>
-<tspan x="10" y="234"></tspan>
-<tspan x="10" y="250">        57 bytes    2016-04-20 16:14:19 +0300    test.js</tspan>
-<tspan x="10" y="266"></tspan>
-<tspan x="10" y="282">    877456 bytes    2015-12-28 15:31:59 +0800    unzip</tspan>
+<tspan x="10" y="26">1       2016-05-23 18:02:40 +0300          64 bytes    .gitignore</tspan>
+<tspan x="10" y="42">2       2016-04-20 13:49:12 +0300        7692 bytes    .travis.yml</tspan>
+<tspan x="10" y="58">3       2016-07-31 14:31:59 +0200        7211 bytes    README.md</tspan>
+<tspan x="10" y="74">4       2016-04-21 01:03:37 +0300         513 bytes    cli.js</tspan>
+<tspan x="10" y="90">5       2016-04-20 16:14:19 +0300         106 bytes    index.js</tspan>
+<tspan x="10" y="106">6       2016-07-31 14:31:59 +0200        1395 bytes    index.sh</tspan>
+<tspan x="10" y="122">7       2016-07-31 14:31:59 +0200        1371 bytes    package.json</tspan>
+<tspan x="10" y="138">8       2016-04-20 16:14:19 +0300          57 bytes    test.js</tspan>
+<tspan x="10" y="154">9       2015-12-28 15:31:59 +0800      877456 bytes    unzip</tspan>
 </text>
 </svg>

@@ -1,79 +1,82 @@
 <style>
+/*csslint
+    adjoining-classes: false
+*/
 .testReportPlatformDiv {
-    border: 1px solid;
-    border-radius: 5px;
+    border: 1px solid black;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     margin-top: 20px;
     padding: 0 10px 10px 10px;
     text-align: left;
 }
-.testReportPlatformPre {
+.testReportPlatformDiv .displayNone {
+    display: none;
+}
+.testReportPlatformDiv img {
+    border: 1px solid black;
+    margin: 5px 0 5px 0;
+    max-height: 256px;
+    max-width: 512px;
+}
+.testReportPlatformDiv pre {
     background-color: #fdd;
-    border: 1px;
-    border-radius: 0 0 5px 5px;
-    border-top-style: solid;
+    border-top: 1px solid black;
     margin-bottom: 0;
     padding: 10px;
     white-space: pre-wrap;
 }
-.testReportPlatformPreHidden {
-    display: none;
-}
-.testReportPlatformScreenCaptureImg {
-    border: 1px solid;
-    border-color: #000;
-    margin: 5px 0 5px 0;
-    max-height:256px;
-    max-width:512px;
-}
-.testReportPlatformSpan {
+.testReportPlatformDiv span {
     display: inline-block;
-    width: 8em;
+    width: 8rem;
 }
-.testReportPlatformTable {
-    border: 1px;
-    border-top-style: solid;
+.testReportPlatformDiv.summary {
+    background-color: #bfb;
+}
+.testReportPlatformDiv table {
+    border-top: 1px solid black;
     text-align: left;
     width: 100%;
 }
-.testReportPlatformTr:nth-child(odd) {
+.testReportPlatformDiv table > tbody > tr:nth-child(odd) {
     background-color: #bfb;
 }
-.testReportTestFailed {
+.testReportPlatformDiv .testFailed {
     background-color: #f99;
 }
-.testReportTestPending {
+.testReportPlatformDiv .testPending {
     background-color: #99f;
 }
-.testReportSummaryDiv {
-    background-color: #bfb;
-}
-.testReportSummarySpan {
-    display: inline-block;
-    width: 6.5em;
-}
 </style>
-<div class="testReportPlatformDiv testReportSummaryDiv">
-<h2>electron-lite test-report summary</h2>
-<h4>
-    <span class="testReportSummarySpan">version</span>-
-        2016.5.1<br>
-    <span class="testReportSummarySpan">test date</span>- 2016-06-09T01:54:33.560Z<br>
-    <span class="testReportSummarySpan">commit info</span>-
+<div class="testReportPlatformDiv summary">
+<h1>
+    <a
         
-        e94ae1fc8cee28b429f239922b586d24ea9abd44 - - npm publish 2016.5.1 - upgrade to electron @ 1.1.3<br>
+        href="https://github.com/kaizhu256/node-electron-lite#readme"
+        
+    >electron-lite v2016.7.1</a>
+</h1>
+<h2>test-report summary</h2>
+<h4>
+    <span>version</span>-
+        2016.7.1<br>
+    <span>test date</span>- 2016-07-31T12:38:13.109Z<br>
+    <span>commit info</span>-
+        
+        6a5d9222c9d2b9e8d55c6f5649bca99242bc5952 - - npm publish 2016.7.1 - upgrade to electron v1.2.8<br>
         
 </h4>
-<table class="testReportPlatformTable">
-<thead><tr>
-    <th>total time-elapsed</th>
-    <th>total tests failed</th>
-    <th>total tests passed</th>
-    <th>total tests pending</th>
-</tr></thead>
+<table>
+<thead>
+    <tr>
+        <th>total time-elapsed</th>
+        <th>total tests failed</th>
+        <th>total tests passed</th>
+        <th>total tests pending</th>
+    </tr>
+</thead>
 <tbody><tr>
-    <td>1207 ms</td>
-    <td class="testReportTestPassed">0</td>
+    <td>5993 ms</td>
+    <td class="testPassed">0</td>
     <td>0</td>
     <td>0</td>
 </tr></tbody>
