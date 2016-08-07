@@ -2,7 +2,7 @@
 <rect height="526" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=testExampleJs] - 2016-07-31T12:53:28Z - testing example.js</tspan>
+<tspan x="10" y="42">[MODE_BUILD=testExampleJs] - 2016-08-07T19:17:39Z - testing example.js</tspan>
 <tspan x="10" y="58"></tspan>
 <tspan x="10" y="74">npm install electron-lite &amp;&amp;             printf '{"main":"example.js","name":"undefined","versio\</tspan>
 <tspan x="10" y="90">n":"0.0.1"}' &gt;             package.json &amp;&amp;             ./node_modules/.bin/electron . --disable-\</tspan>
@@ -20,17 +20,17 @@
 <tspan x="10" y="282">npm WARN app No repository field.</tspan>
 <tspan x="10" y="298">npm WARN app No README data</tspan>
 <tspan x="10" y="314">npm WARN app No license field.</tspan>
-<tspan x="10" y="330">[3261:0731/125331:ERROR:browser_main_loop.cc(219)] Running without the SUID sandbox! See https:/\</tspan>
+<tspan x="10" y="330">[3247:0807/191742:ERROR:browser_main_loop.cc(219)] Running without the SUID sandbox! See https:/\</tspan>
 <tspan x="10" y="346">/chromium.googlesource.com/chromium/src/+/master/docs/linux_suid_sandbox_development.md for more\</tspan>
 <tspan x="10" y="362"> information on developing with the sandbox on.</tspan>
 <tspan x="10" y="378">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="394">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="410">[3261:0731/125331:ERROR:bus.cc(432)] Failed to connect to the bus: Failed to connect to socket /\</tspan>
+<tspan x="10" y="410">[3247:0807/191742:ERROR:bus.cc(432)] Failed to connect to the bus: Failed to connect to socket /\</tspan>
 <tspan x="10" y="426">var/run/dbus/system_bus_socket: Connection refused</tspan>
-<tspan x="10" y="442">[3281:0731/125331:ERROR:sandbox_linux.cc(334)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="442">[3266:0807/191742:ERROR:sandbox_linux.cc(334)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="458">in process gpu-process</tspan>
-<tspan x="10" y="474">[3281:0731/125331:WARNING:ipc_message_attachment_set.cc(57)] MessageAttachmentSet destroyed with\</tspan>
+<tspan x="10" y="474">[3266:0807/191742:WARNING:ipc_message_attachment_set.cc(57)] MessageAttachmentSet destroyed with\</tspan>
 <tspan x="10" y="490"> unconsumed descriptors: 0/1</tspan>
-<tspan x="10" y="506">[3261:0731/125331:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="506">[3247:0807/191742:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 </text>
 </svg>
