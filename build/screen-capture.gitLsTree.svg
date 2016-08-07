@@ -3,11 +3,11 @@
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">1       2016-05-23 18:02:40 +0300          64 bytes    .gitignore</tspan>
 <tspan x="10" y="42">2       2016-04-20 13:49:12 +0300        7692 bytes    .travis.yml</tspan>
-<tspan x="10" y="58">3       2016-08-07 21:16:43 +0200        7171 bytes    README.md</tspan>
+<tspan x="10" y="58">3       2016-08-07 21:46:38 +0200        7222 bytes    README.md</tspan>
 <tspan x="10" y="74">4       2016-04-21 01:03:37 +0300         513 bytes    cli.js</tspan>
 <tspan x="10" y="90">5       2016-04-20 16:14:19 +0300         106 bytes    index.js</tspan>
 <tspan x="10" y="106">6       2016-07-31 14:31:59 +0200        1395 bytes    index.sh</tspan>
-<tspan x="10" y="122">7       2016-08-07 21:16:43 +0200        1325 bytes    package.json</tspan>
+<tspan x="10" y="122">7       2016-08-07 21:46:38 +0200        1357 bytes    package.json</tspan>
 <tspan x="10" y="138">8       2016-04-20 16:14:19 +0300          57 bytes    test.js</tspan>
 <tspan x="10" y="154">9       2015-12-28 15:31:59 +0800      877456 bytes    unzip</tspan>
 </text>
