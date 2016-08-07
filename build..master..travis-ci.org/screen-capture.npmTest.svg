@@ -1,0 +1,44 @@
+<svg height="654" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="654" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; electron-lite@2016.4.3 test /home/travis/build/kaizhu256/node-electron-lite</tspan>
+<tspan x="10" y="58">&gt; . node_modules/.bin/utility2 &amp;&amp; shReadmeExportScripts &amp;&amp; cp $(shFileTrimLeft tmp/README.packag\</tspan>
+<tspan x="10" y="74">e.json) package.json &amp;&amp; rm -fr external &amp;&amp; npm run postinstall &amp;&amp; ./cli.js --version &amp;&amp; utility2\</tspan>
+<tspan x="10" y="90"> test node test.js</tspan>
+<tspan x="10" y="106"></tspan>
+<tspan x="10" y="122"></tspan>
+<tspan x="10" y="138">&gt; electron-lite@2016.4.3 postinstall /home/travis/build/kaizhu256/node-electron-lite</tspan>
+<tspan x="10" y="154">&gt; ./index.sh shNpmPostinstall</tspan>
+<tspan x="10" y="170"></tspan>
+<tspan x="10" y="186">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="202">v1.0.2</tspan>
+<tspan x="10" y="218"></tspan>
+<tspan x="10" y="234">[MODE_BUILD=npmTest] - 2016-06-09T01:56:20Z - npm-testing /home/travis/build/kaizhu256/node-elec\</tspan>
+<tspan x="10" y="250">tron-lite</tspan>
+<tspan x="10" y="266"></tspan>
+<tspan x="10" y="282"></tspan>
+<tspan x="10" y="298">covering $ /home/travis/.nvm/versions/node/v6.2.1/bin/node /home/travis/build/kaizhu256/node-ele\</tspan>
+<tspan x="10" y="314">ctron-lite/test.js</tspan>
+<tspan x="10" y="330">-----------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="346">File                   |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="362">-----------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="378">   node-electron-lite/ |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="394">      test.js          |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="410">-----------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="426">All files              |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="442">-----------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="458"></tspan>
+<tspan x="10" y="474">created coverage file:///home/travis/build/kaizhu256/node-electron-lite/tmp/build/coverage.html/\</tspan>
+<tspan x="10" y="490">index.html</tspan>
+<tspan x="10" y="506"></tspan>
+<tspan x="10" y="522">-------------------------------------------------------</tspan>
+<tspan x="10" y="538"></tspan>
+<tspan x="10" y="554"></tspan>
+<tspan x="10" y="570">created test-report file:///home/travis/build/kaizhu256/node-electron-lite/tmp/build/test-report\</tspan>
+<tspan x="10" y="586">.html</tspan>
+<tspan x="10" y="602"></tspan>
+<tspan x="10" y="618"></tspan>
+<tspan x="10" y="634">npmTest - 0 failed tests</tspan>
+</text>
+</svg>

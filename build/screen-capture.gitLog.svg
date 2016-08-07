@@ -1,0 +1,75 @@
+<svg height="1150" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1150" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2016-07-31 14:31:59 +0200</tspan>
+<tspan x="10" y="42">- npm publish 2016.7.1</tspan>
+<tspan x="10" y="58">- upgrade to electron v1.2.8</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90">2016-06-09 04:43:05 +0300</tspan>
+<tspan x="10" y="106">- npm publish 2016.5.1</tspan>
+<tspan x="10" y="122">- upgrade to electron @ 1.1.3</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154">2016-05-23 18:51:01 +0300</tspan>
+<tspan x="10" y="170">- npm publish 2016.4.3</tspan>
+<tspan x="10" y="186">- fix missing README.md in published package</tspan>
+<tspan x="10" y="202"></tspan>
+<tspan x="10" y="218">2016-05-23 18:02:40 +0300</tspan>
+<tspan x="10" y="234">- npm publish 2016.4.2</tspan>
+<tspan x="10" y="250">- upgrade to electron @ 1.0.2</tspan>
+<tspan x="10" y="266"></tspan>
+<tspan x="10" y="282">2016-04-21 01:03:37 +0300</tspan>
+<tspan x="10" y="298">- npm publish 2016.3.3</tspan>
+<tspan x="10" y="314">- fix race-condition for parallel npm install</tspan>
+<tspan x="10" y="330"></tspan>
+<tspan x="10" y="346">2016-04-20 16:14:19 +0300</tspan>
+<tspan x="10" y="362">- npm publish 2016.3.2</tspan>
+<tspan x="10" y="378">- add file cli.js</tspan>
+<tspan x="10" y="394">- fix npm install</tspan>
+<tspan x="10" y="410"></tspan>
+<tspan x="10" y="426">2016-04-20 13:49:12 +0300</tspan>
+<tspan x="10" y="442">- npm publish 2016.3.1</tspan>
+<tspan x="10" y="458">- upgrade to electron @ v0.36.12</tspan>
+<tspan x="10" y="474"></tspan>
+<tspan x="10" y="490">2016-02-29 22:29:34 +0800</tspan>
+<tspan x="10" y="506">- npm publish 2015.12.4</tspan>
+<tspan x="10" y="522">- upgrade to electron @ v0.35.6</tspan>
+<tspan x="10" y="538"></tspan>
+<tspan x="10" y="554">2015-12-28 15:31:59 +0800</tspan>
+<tspan x="10" y="570">- npm publish 2015.12.3</tspan>
+<tspan x="10" y="586">- remove linux unzip dependency by including busybox.unzip @ https://busybox.net/downloads/binar\</tspan>
+<tspan x="10" y="602">ies/1.21.1/busybox-i486</tspan>
+<tspan x="10" y="618"></tspan>
+<tspan x="10" y="634">2015-12-06 12:37:28 +0800</tspan>
+<tspan x="10" y="650">- npm publish 2015.11.2</tspan>
+<tspan x="10" y="666">- upgrade to electron @ 0.35.4</tspan>
+<tspan x="10" y="682"></tspan>
+<tspan x="10" y="698">2015-11-28 23:13:16 +0800</tspan>
+<tspan x="10" y="714">- npm publish 2015.11.1</tspan>
+<tspan x="10" y="730">- update to electron @ 0.35.2</tspan>
+<tspan x="10" y="746">- add file test.js</tspan>
+<tspan x="10" y="762"></tspan>
+<tspan x="10" y="778">2015-11-22 12:22:38 +0800</tspan>
+<tspan x="10" y="794">- npm publish 2015.10.5</tspan>
+<tspan x="10" y="810">- change name from electron-prebuilt-lite to electron-lite</tspan>
+<tspan x="10" y="826">- update devDependency with utility2 @ 2015.11.6</tspan>
+<tspan x="10" y="842"></tspan>
+<tspan x="10" y="858">2015-11-20 17:06:31 +0800</tspan>
+<tspan x="10" y="874">- npm publish 2015.10.4</tspan>
+<tspan x="10" y="890">- update to electron @ 0.35.1</tspan>
+<tspan x="10" y="906">- update devDependencty to utility2@2015.11.4</tspan>
+<tspan x="10" y="922">- fix quickstart screen-capture example</tspan>
+<tspan x="10" y="938"></tspan>
+<tspan x="10" y="954">2015-11-20 04:22:14 +0800</tspan>
+<tspan x="10" y="970">- npm publish 2015.10.3</tspan>
+<tspan x="10" y="986">- fix linux build</tspan>
+<tspan x="10" y="1002"></tspan>
+<tspan x="10" y="1018">2015-11-20 04:19:26 +0800</tspan>
+<tspan x="10" y="1034">fix linux build</tspan>
+<tspan x="10" y="1050"></tspan>
+<tspan x="10" y="1066">2015-11-20 01:56:19 +0800</tspan>
+<tspan x="10" y="1082">- npm publish 2015.10.2</tspan>
+<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1114">2014-03-26 02:31:50 +0700</tspan>
+<tspan x="10" y="1130">add blank README.md</tspan>
+</text>
+</svg>

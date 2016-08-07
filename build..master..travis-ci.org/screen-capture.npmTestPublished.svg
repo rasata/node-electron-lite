@@ -1,0 +1,69 @@
+<svg height="1054" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1054" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; electron-lite@2016.4.3 test-published /home/travis/build/kaizhu256/node-electron-lite</tspan>
+<tspan x="10" y="58">&gt; utility2 shRun shNpmTestPublished</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90"></tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTestPublished] - 2016-06-09T01:56:10Z - npm-testing published package electron-li\</tspan>
+<tspan x="10" y="122">te</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154"></tspan>
+<tspan x="10" y="170">&gt; electron-lite@2016.5.1 postinstall /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="186">&gt; ./index.sh shNpmPostinstall</tspan>
+<tspan x="10" y="202"></tspan>
+<tspan x="10" y="218">/tmp/app</tspan>
+<tspan x="10" y="234">└── electron-lite@2016.5.1 </tspan>
+<tspan x="10" y="250"></tspan>
+<tspan x="10" y="266">npm WARN enoent ENOENT: no such file or directory, open '/tmp/app/package.json'</tspan>
+<tspan x="10" y="282">npm WARN app No description</tspan>
+<tspan x="10" y="298">npm WARN app No repository field.</tspan>
+<tspan x="10" y="314">npm WARN app No README data</tspan>
+<tspan x="10" y="330">npm WARN app No license field.</tspan>
+<tspan x="10" y="346"></tspan>
+<tspan x="10" y="362">&gt; electron-lite@2016.5.1 postinstall /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="378">&gt; ./index.sh shNpmPostinstall</tspan>
+<tspan x="10" y="394"></tspan>
+<tspan x="10" y="410">electron-lite@2016.5.1 /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="426">└── utility2@2016.4.2 </tspan>
+<tspan x="10" y="442"></tspan>
+<tspan x="10" y="458"></tspan>
+<tspan x="10" y="474">&gt; electron-lite@2016.5.1 test /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="490">&gt; . node_modules/.bin/utility2 &amp;&amp; shReadmeExportScripts &amp;&amp; cp $(shFileTrimLeft tmp/README.packag\</tspan>
+<tspan x="10" y="506">e.json) package.json &amp;&amp; rm -fr external &amp;&amp; npm run postinstall &amp;&amp; ./cli.js --version &amp;&amp; utility2\</tspan>
+<tspan x="10" y="522"> test node test.js</tspan>
+<tspan x="10" y="538"></tspan>
+<tspan x="10" y="554"></tspan>
+<tspan x="10" y="570">&gt; electron-lite@2016.5.1 postinstall /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="586">&gt; ./index.sh shNpmPostinstall</tspan>
+<tspan x="10" y="602"></tspan>
+<tspan x="10" y="618">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="634">v1.1.3</tspan>
+<tspan x="10" y="650"></tspan>
+<tspan x="10" y="666">[MODE_BUILD=npmTestPublished] - 2016-06-09T01:56:16Z - npm-testing /tmp/app/node_modules/electro\</tspan>
+<tspan x="10" y="682">n-lite</tspan>
+<tspan x="10" y="698"></tspan>
+<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730">covering $ /home/travis/.nvm/versions/node/v6.2.1/bin/node /tmp/app/node_modules/electron-lite/t\</tspan>
+<tspan x="10" y="746">est.js</tspan>
+<tspan x="10" y="762">------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="778">File              |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="794">------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="810">   electron-lite/ |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="826">      test.js     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="842">------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="858">All files         |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="874">------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="890"></tspan>
+<tspan x="10" y="906">created coverage file:///tmp/app/node_modules/electron-lite/tmp/build/coverage.html/index.html</tspan>
+<tspan x="10" y="922"></tspan>
+<tspan x="10" y="938">-------------------------------------------------------</tspan>
+<tspan x="10" y="954"></tspan>
+<tspan x="10" y="970"></tspan>
+<tspan x="10" y="986">created test-report file:///tmp/app/node_modules/electron-lite/tmp/build/test-report.html</tspan>
+<tspan x="10" y="1002"></tspan>
+<tspan x="10" y="1018"></tspan>
+<tspan x="10" y="1034">npmTestPublished - 0 failed tests</tspan>
+</text>
+</svg>
