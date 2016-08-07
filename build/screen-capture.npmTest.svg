@@ -2,17 +2,17 @@
 <rect height="446" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">&gt; electron-lite@2016.7.2 test /home/travis/build/kaizhu256/node-electron-lite</tspan>
+<tspan x="10" y="42">&gt; electron-lite@2016.7.3 test /home/travis/build/kaizhu256/node-electron-lite</tspan>
 <tspan x="10" y="58">&gt; rm -fr external &amp;&amp; npm run postinstall &amp;&amp; ./cli.js --version &amp;&amp; utility2 test test.js</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">&gt; electron-lite@2016.7.2 postinstall /home/travis/build/kaizhu256/node-electron-lite</tspan>
+<tspan x="10" y="106">&gt; electron-lite@2016.7.3 postinstall /home/travis/build/kaizhu256/node-electron-lite</tspan>
 <tspan x="10" y="122">&gt; ./index.sh shNpmPostinstall</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="170">v1.2.8</tspan>
 <tspan x="10" y="186"></tspan>
-<tspan x="10" y="202">[MODE_BUILD=npmTest] - 2016-08-07T19:56:39Z - npm-testing /home/travis/build/kaizhu256/node-elec\</tspan>
+<tspan x="10" y="202">[MODE_BUILD=npmTest] - 2016-08-07T20:16:11Z - npm-testing /home/travis/build/kaizhu256/node-elec\</tspan>
 <tspan x="10" y="218">tron-lite</tspan>
 <tspan x="10" y="234"></tspan>
 <tspan x="10" y="250"></tspan>
