@@ -111,8 +111,10 @@ instruction
             break;
         case 4:
             // save screen-capture
-            require('fs')
-                .writeFileSync('screen-capture.testExampleJs.browser.png', data.toPng());
+            require('fs').writeFileSync(
+                'screen-capture.testExampleJs.browser.png',
+                data.toPng()
+            );
             // exit
             process.exit(0);
             break;
