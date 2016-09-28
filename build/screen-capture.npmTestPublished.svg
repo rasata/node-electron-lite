@@ -2,7 +2,7 @@
 <rect height="814" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=npmTestPublished] - 2016-08-10T04:16:20Z - npm-testing published-package electron-li\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=npmTestPublished] - 2016-09-28T07:28:38Z - npm-testing published-package electron-li\</tspan>
 <tspan x="10" y="58">te</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
@@ -22,8 +22,8 @@
 <tspan x="10" y="314">&gt; ./index.sh shNpmPostinstall</tspan>
 <tspan x="10" y="330"></tspan>
 <tspan x="10" y="346">electron-lite@2016.7.2 /tmp/app/node_modules/electron-lite</tspan>
-<tspan x="10" y="362">└── utility2@2016.7.5  (git://github.com/kaizhu256/node-utility2.git#af709ff2170358a499f69305e0b\</tspan>
-<tspan x="10" y="378">b976aa1013be2)</tspan>
+<tspan x="10" y="362">└── utility2@2016.9.1  (git://github.com/kaizhu256/node-utility2.git#abf08f4af5d5f2d512a100fec09\</tspan>
+<tspan x="10" y="378">943f03d62c342)</tspan>
 <tspan x="10" y="394"></tspan>
 <tspan x="10" y="410"></tspan>
 <tspan x="10" y="426">&gt; electron-lite@2016.7.2 test /tmp/app/node_modules/electron-lite</tspan>
@@ -36,11 +36,11 @@
 <tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="554">v1.2.8</tspan>
 <tspan x="10" y="570"></tspan>
-<tspan x="10" y="586">[MODE_BUILD=npmTestPublished] - 2016-08-10T04:16:31Z - npm-testing /tmp/app/node_modules/electro\</tspan>
+<tspan x="10" y="586">[MODE_BUILD=npmTestPublished] - 2016-09-28T07:28:46Z - npm-testing /tmp/app/node_modules/electro\</tspan>
 <tspan x="10" y="602">n-lite</tspan>
 <tspan x="10" y="618"></tspan>
 <tspan x="10" y="634"></tspan>
-<tspan x="10" y="650">covering $ /home/travis/.nvm/versions/node/v6.3.1/bin/node /tmp/app/node_modules/electron-lite/t\</tspan>
+<tspan x="10" y="650">covering $ /home/travis/.nvm/versions/node/v6.7.0/bin/node /tmp/app/node_modules/electron-lite/t\</tspan>
 <tspan x="10" y="666">est.js</tspan>
 <tspan x="10" y="682"></tspan>
 <tspan x="10" y="698">-------------------------------------------------------</tspan>
