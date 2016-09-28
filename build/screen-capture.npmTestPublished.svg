@@ -2,7 +2,7 @@
 <rect height="814" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=npmTestPublished] - 2016-09-28T07:41:34Z - npm-testing published-package electron-li\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=npmTestPublished] - 2016-09-28T07:58:12Z - npm-testing published-package electron-li\</tspan>
 <tspan x="10" y="58">te</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
@@ -36,7 +36,7 @@
 <tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="554">v1.2.8</tspan>
 <tspan x="10" y="570"></tspan>
-<tspan x="10" y="586">[MODE_BUILD=npmTestPublished] - 2016-09-28T07:41:41Z - npm-testing /tmp/app/node_modules/electro\</tspan>
+<tspan x="10" y="586">[MODE_BUILD=npmTestPublished] - 2016-09-28T07:58:19Z - npm-testing /tmp/app/node_modules/electro\</tspan>
 <tspan x="10" y="602">n-lite</tspan>
 <tspan x="10" y="618"></tspan>
 <tspan x="10" y="634"></tspan>
