@@ -1,58 +1,54 @@
-<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="878" fill="#555" width="720"></rect>
+<svg height="814" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="814" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">&gt; electron-lite@2016.7.2 test-published /home/travis/build/kaizhu256/node-electron-lite</tspan>
-<tspan x="10" y="58">&gt; utility2 shRun shNpmTestPublished</tspan>
+<tspan x="10" y="42">[MODE_BUILD=npmTestPublished] - 2016-09-28T08:42:36Z - npm-testing published-package electron-li\</tspan>
+<tspan x="10" y="58">te</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTestPublished] - 2016-08-07T19:56:28Z - npm-testing published-package electron-li\</tspan>
-<tspan x="10" y="122">te</tspan>
+<tspan x="10" y="106">&gt; electron-lite@2016.8.1 postinstall /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="122">&gt; ./index.sh shNpmPostinstall</tspan>
 <tspan x="10" y="138"></tspan>
-<tspan x="10" y="154"></tspan>
-<tspan x="10" y="170">&gt; electron-lite@2016.7.2 postinstall /tmp/app/node_modules/electron-lite</tspan>
-<tspan x="10" y="186">&gt; ./index.sh shNpmPostinstall</tspan>
-<tspan x="10" y="202"></tspan>
-<tspan x="10" y="218">/tmp/app</tspan>
-<tspan x="10" y="234">└── electron-lite@2016.7.2 </tspan>
-<tspan x="10" y="250"></tspan>
-<tspan x="10" y="266">npm WARN enoent ENOENT: no such file or directory, open '/tmp/app/package.json'</tspan>
-<tspan x="10" y="282">npm WARN app No description</tspan>
-<tspan x="10" y="298">npm WARN app No repository field.</tspan>
-<tspan x="10" y="314">npm WARN app No README data</tspan>
-<tspan x="10" y="330">npm WARN app No license field.</tspan>
-<tspan x="10" y="346"></tspan>
-<tspan x="10" y="362">&gt; electron-lite@2016.7.2 postinstall /tmp/app/node_modules/electron-lite</tspan>
-<tspan x="10" y="378">&gt; ./index.sh shNpmPostinstall</tspan>
+<tspan x="10" y="154">/tmp/app</tspan>
+<tspan x="10" y="170">└── electron-lite@2016.8.1 </tspan>
+<tspan x="10" y="186"></tspan>
+<tspan x="10" y="202">npm WARN enoent ENOENT: no such file or directory, open '/tmp/app/package.json'</tspan>
+<tspan x="10" y="218">npm WARN app No description</tspan>
+<tspan x="10" y="234">npm WARN app No repository field.</tspan>
+<tspan x="10" y="250">npm WARN app No README data</tspan>
+<tspan x="10" y="266">npm WARN app No license field.</tspan>
+<tspan x="10" y="282"></tspan>
+<tspan x="10" y="298">&gt; electron-lite@2016.8.1 postinstall /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="314">&gt; ./index.sh shNpmPostinstall</tspan>
+<tspan x="10" y="330"></tspan>
+<tspan x="10" y="346">electron-lite@2016.8.1 /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="362">└── utility2@2016.9.1  (git://github.com/kaizhu256/node-utility2.git#abf08f4af5d5f2d512a100fec09\</tspan>
+<tspan x="10" y="378">943f03d62c342)</tspan>
 <tspan x="10" y="394"></tspan>
-<tspan x="10" y="410">electron-lite@2016.7.2 /tmp/app/node_modules/electron-lite</tspan>
-<tspan x="10" y="426">└── utility2@2016.7.4  (git://github.com/kaizhu256/node-utility2.git#aea2fe24b14af5e9d937da982cf\</tspan>
-<tspan x="10" y="442">722f68fe66e2b)</tspan>
+<tspan x="10" y="410"></tspan>
+<tspan x="10" y="426">&gt; electron-lite@2016.8.1 test /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="442">&gt; rm -fr external &amp;&amp; npm run postinstall &amp;&amp; ./cli.js --version &amp;&amp; utility2 test test.js</tspan>
 <tspan x="10" y="458"></tspan>
 <tspan x="10" y="474"></tspan>
-<tspan x="10" y="490">&gt; electron-lite@2016.7.2 test /tmp/app/node_modules/electron-lite</tspan>
-<tspan x="10" y="506">&gt; rm -fr external &amp;&amp; npm run postinstall &amp;&amp; ./cli.js --version &amp;&amp; utility2 test test.js</tspan>
+<tspan x="10" y="490">&gt; electron-lite@2016.8.1 postinstall /tmp/app/node_modules/electron-lite</tspan>
+<tspan x="10" y="506">&gt; ./index.sh shNpmPostinstall</tspan>
 <tspan x="10" y="522"></tspan>
-<tspan x="10" y="538"></tspan>
-<tspan x="10" y="554">&gt; electron-lite@2016.7.2 postinstall /tmp/app/node_modules/electron-lite</tspan>
-<tspan x="10" y="570">&gt; ./index.sh shNpmPostinstall</tspan>
-<tspan x="10" y="586"></tspan>
-<tspan x="10" y="602">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="618">v1.2.8</tspan>
+<tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="554">v1.3.7</tspan>
+<tspan x="10" y="570"></tspan>
+<tspan x="10" y="586">[MODE_BUILD=npmTestPublished] - 2016-09-28T08:42:42Z - npm-testing /tmp/app/node_modules/electro\</tspan>
+<tspan x="10" y="602">n-lite</tspan>
+<tspan x="10" y="618"></tspan>
 <tspan x="10" y="634"></tspan>
-<tspan x="10" y="650">[MODE_BUILD=npmTestPublished] - 2016-08-07T19:56:34Z - npm-testing /tmp/app/node_modules/electro\</tspan>
-<tspan x="10" y="666">n-lite</tspan>
+<tspan x="10" y="650">covering $ /home/travis/.nvm/versions/node/v6.7.0/bin/node /tmp/app/node_modules/electron-lite/t\</tspan>
+<tspan x="10" y="666">est.js</tspan>
 <tspan x="10" y="682"></tspan>
-<tspan x="10" y="698"></tspan>
-<tspan x="10" y="714">covering $ /home/travis/.nvm/versions/node/v6.3.1/bin/node /tmp/app/node_modules/electron-lite/t\</tspan>
-<tspan x="10" y="730">est.js</tspan>
-<tspan x="10" y="746"></tspan>
-<tspan x="10" y="762">-------------------------------------------------------</tspan>
+<tspan x="10" y="698">-------------------------------------------------------</tspan>
+<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730"></tspan>
+<tspan x="10" y="746">created test-report file:///tmp/app/node_modules/electron-lite/tmp/build/test-report.html</tspan>
+<tspan x="10" y="762"></tspan>
 <tspan x="10" y="778"></tspan>
-<tspan x="10" y="794"></tspan>
-<tspan x="10" y="810">created test-report file:///tmp/app/node_modules/electron-lite/tmp/build/test-report.html</tspan>
-<tspan x="10" y="826"></tspan>
-<tspan x="10" y="842"></tspan>
-<tspan x="10" y="858">npmTestPublished - 0 failed tests</tspan>
+<tspan x="10" y="794">npmTestPublished - 0 failed tests</tspan>
 </text>
 </svg>
