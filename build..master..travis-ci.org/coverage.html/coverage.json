@@ -1,0 +1,1 @@
+{"/home/travis/build/kaizhu256/node-electron-lite/test.js":{"path":"/home/travis/build/kaizhu256/node-electron-lite/test.js","s":{"1":1},"b":{},"f":{},"fnMap":{},"statementMap":{"1":{"start":{"line":2,"column":0},"end":{"line":2,"column":32}}},"branchMap":{},"code":["/* jslint-ignore-all */","require('utility2').testRun({});",""],"l":{"2":1}}}
